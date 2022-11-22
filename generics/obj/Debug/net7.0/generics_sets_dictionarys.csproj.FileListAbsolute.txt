@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\bin\Debug\net7.0\generics_sets_dictionarys.exe
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\bin\Debug\net7.0\generics_sets_dictionarys.deps.json
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\bin\Debug\net7.0\generics_sets_dictionarys.runtimeconfig.json
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\bin\Debug\net7.0\generics_sets_dictionarys.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\bin\Debug\net7.0\generics_sets_dictionarys.pdb
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\obj\Debug\net7.0\generics_sets_dictionarys.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\obj\Debug\net7.0\generics_sets_dictionarys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\obj\Debug\net7.0\generics_sets_dictionarys.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\obj\Debug\net7.0\generics_sets_dictionarys.AssemblyInfo.cs
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\obj\Debug\net7.0\generics_sets_dictionarys.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\obj\Debug\net7.0\generics_sets_dictionarys.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\obj\Debug\net7.0\refint\generics_sets_dictionarys.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\obj\Debug\net7.0\generics_sets_dictionarys.pdb
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\obj\Debug\net7.0\generics_sets_dictionarys.genruntimeconfig.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\obj\Debug\net7.0\ref\generics_sets_dictionarys.dll

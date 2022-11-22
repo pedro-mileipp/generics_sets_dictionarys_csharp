@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\bin\Debug\net7.0\restricao_generic.exe
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\bin\Debug\net7.0\restricao_generic.deps.json
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\bin\Debug\net7.0\restricao_generic.runtimeconfig.json
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\bin\Debug\net7.0\restricao_generic.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\bin\Debug\net7.0\restricao_generic.pdb
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\obj\Debug\net7.0\restricao_generic.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\obj\Debug\net7.0\restricao_generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\obj\Debug\net7.0\restricao_generic.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\obj\Debug\net7.0\restricao_generic.AssemblyInfo.cs
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\obj\Debug\net7.0\restricao_generic.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\obj\Debug\net7.0\restricao_generic.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\obj\Debug\net7.0\refint\restricao_generic.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\obj\Debug\net7.0\restricao_generic.pdb
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\obj\Debug\net7.0\restricao_generic.genruntimeconfig.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\restricao_generic\obj\Debug\net7.0\ref\restricao_generic.dll

@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\bin\Debug\net7.0\Dictionary_SortedDictionary.exe
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\bin\Debug\net7.0\Dictionary_SortedDictionary.deps.json
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\bin\Debug\net7.0\Dictionary_SortedDictionary.runtimeconfig.json
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\bin\Debug\net7.0\Dictionary_SortedDictionary.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\bin\Debug\net7.0\Dictionary_SortedDictionary.pdb
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.AssemblyInfo.cs
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\obj\Debug\net7.0\refint\Dictionary_SortedDictionary.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.pdb
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\obj\Debug\net7.0\Dictionary_SortedDictionary.genruntimeconfig.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\Dictionary_SortedDictionary\obj\Debug\net7.0\ref\Dictionary_SortedDictionary.dll

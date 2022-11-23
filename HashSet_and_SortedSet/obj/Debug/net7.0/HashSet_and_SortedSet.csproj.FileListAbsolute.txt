@@ -1,0 +1,15 @@
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\bin\Debug\net7.0\HashSet_and_SortedSet.exe
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\bin\Debug\net7.0\HashSet_and_SortedSet.deps.json
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\bin\Debug\net7.0\HashSet_and_SortedSet.runtimeconfig.json
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\bin\Debug\net7.0\HashSet_and_SortedSet.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\bin\Debug\net7.0\HashSet_and_SortedSet.pdb
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\obj\Debug\net7.0\HashSet_and_SortedSet.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\obj\Debug\net7.0\HashSet_and_SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\obj\Debug\net7.0\HashSet_and_SortedSet.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\obj\Debug\net7.0\HashSet_and_SortedSet.AssemblyInfo.cs
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\obj\Debug\net7.0\HashSet_and_SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\obj\Debug\net7.0\HashSet_and_SortedSet.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\obj\Debug\net7.0\refint\HashSet_and_SortedSet.dll
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\obj\Debug\net7.0\HashSet_and_SortedSet.pdb
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\obj\Debug\net7.0\HashSet_and_SortedSet.genruntimeconfig.cache
+C:\Users\Pedro\Documents\pratica_c#\generics_sets_dictionarys\HashSet_and_SortedSet\obj\Debug\net7.0\ref\HashSet_and_SortedSet.dll

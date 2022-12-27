@@ -8,7 +8,7 @@ using System.Collections.Generic;
 - Os Conjuntos em C# são representados pelas coleções HashSet e SortedSet;
 
 - Representa um conjunto de elementos (similar ao da Álgebra):
-  - Não admite repetiçõesç
+  - Não admite repetições;
   - Elementos não possuem posição;
   - Acesso, inserção e remoção de elementos são rápidosç
   - Oferece operações eficientes de conjunto: interseção, união, diferença

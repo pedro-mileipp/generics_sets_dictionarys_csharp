@@ -40,7 +40,7 @@ using System.Collections.Generic;
 class Program{
     static void Main(){
         Sep();
-        HashSet<string> set = new HashSet<string>(); // para usar SortedSet basta substituir no lugar de HashSet
+        HashSet<string> set = new HashSet<string>(); // para usar SortedSet basta substituir no lugar de HashSet e vice-versa, a forma de fazer é a mesma.
         set.Add("TV");
         set.Add("Smartphone");
         set.Add("Notebook");
